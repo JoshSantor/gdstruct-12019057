@@ -9,7 +9,7 @@ public class Players {
 
     public Players()
     {
-        //LMAO to reduced hassle
+        //LMAO to reduce hassle
     }
 
 
